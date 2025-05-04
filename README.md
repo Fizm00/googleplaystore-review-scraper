@@ -1,6 +1,6 @@
 # Google Play Store Review Scraper - Tokopedia
 
-![Tokopedia Logo](tokopedia-seeklogo.png)
+<img src="tokopedia-seeklogo.png" alt="Tokopedia Logo" width="200"/>
 
 ## 📱 Project Description
 
